@@ -1,0 +1,7 @@
+numeroUno = int(input("Ingresar Numero 1: "))
+numeroDos = int(input("Ingresar Numero 2: "))
+print("\nLos resultados para " + str(numeroUno) + " y " + str(numeroDos) + " son:")
+print("\nLa suma: " + str(numeroUno + numeroDos))
+print("La suma: " + str(numeroUno - numeroDos))
+print("La división: " + str(numeroUno // numeroDos))
+print("La multiplicación: " + str(numeroUno * numeroDos))
